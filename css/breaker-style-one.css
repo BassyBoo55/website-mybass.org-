@@ -3,8 +3,8 @@
     margin:0;
     box-sizing: border-box;
 }
-#breaker{
-    height: 50vh;
+#breaker {
+    height: 200%;
     width: 200%;
     background-color: #c70039;
     opacity: 1;
@@ -12,7 +12,6 @@
     display: none;
     transition: all .4s ease;
     border-radius: 25px;
-    
     z-index: 10;
     position: fixed;
 }
@@ -26,8 +25,8 @@
     50%{ transform : translateX(0%) }
     100%{ transform : translateX(100%) }
 }
-#breaker-two{
-    height: 50vh;
+#breaker-two {
+    height: 200%;
     width: 200%;
     background-color: #080808;
     opacity: 1;
