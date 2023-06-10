@@ -561,7 +561,7 @@ body{
 .e7_59 { 
 	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
 	background-color:rgba(245.00000059604645, 245.00000059604645, 245.00000059604645, 1);
-	width:1412px;
+	width:1900px;
 	height:100px;
 	position:absolute;
 	left:0px;
@@ -1422,7 +1422,7 @@ For devices with smaller width like mobile phone
 
 
 
-@media only screen and (max-width: 550px){
+@media only screen {
     .header-content{
         height: 100vh;
         width: 100%;
